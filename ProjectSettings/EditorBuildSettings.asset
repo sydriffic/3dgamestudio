@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/probuilderdemo.unity
+    guid: f4b5eb81be9dfb34eaaba16ab00e9c9a
   m_configObjects: {}
